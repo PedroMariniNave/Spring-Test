@@ -1,7 +1,7 @@
 package com.springtest.test.controller;
 
 import com.springtest.test.model.UserModel;
-import com.springtest.test.reposity.UserRepository;
+import com.springtest.test.repository.UserRepository;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
